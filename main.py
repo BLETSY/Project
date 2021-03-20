@@ -32,8 +32,6 @@ print(my_boolean)
 # variable is going to check if the student with 
 # the name "Jimmy" is in the list
 
-# If the name Jimmy is not in the list
-# You will need to add it
 
 my_list = ["Sarah", "Christian", "Jimmy", "Michael"]
 has_Jimmy = "Jimmy" in my_list
